@@ -8,7 +8,7 @@ In the domain of public administration, understanding government employee compen
 
 We are looking at the real-time data available over a period of the last 5 years to understand the compensation structure for government employees of Louisville.
 """
-
+# %%
 ## Setup
 #Importing Libraries and functions necessary for our initial data scrapping and analysis
 
